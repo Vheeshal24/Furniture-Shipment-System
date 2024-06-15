@@ -1,0 +1,15 @@
+com\mycompany\shippingsystem\Admin.class
+com\mycompany\shippingsystem\FurnitureShipment.class
+com\mycompany\shippingsystem\Delivery.class
+com\mycompany\shippingsystem\DeliveryPerson.class
+com\mycompany\shippingsystem\Warehouse.class
+com\mycompany\shippingsystem\ShipmentHandler.class
+com\mycompany\shippingsystem\Route.class
+com\mycompany\shippingsystem\Manager.class
+com\mycompany\shippingsystem\FurnitureItem.class
+com\mycompany\shippingsystem\Employee.class
+com\mycompany\shippingsystem\ShippingSystem.class
+com\mycompany\shippingsystem\Customer.class
+com\mycompany\shippingsystem\OrderPlacementForm.class
+com\mycompany\shippingsystem\Payment.class
+com\mycompany\shippingsystem\Vehicle.class
